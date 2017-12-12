@@ -23,7 +23,7 @@ export default class ProfilePage extends React.Component {
                 />
                 <TextInput
                     style={styles.inputName}
-                    placeholder="Email Address"
+                    placeholder="Email"
                 />
                 <TextInput
                     style={styles.inputName}
@@ -99,7 +99,6 @@ const styles = StyleSheet.create({
     input4: {
         flex: 1,
         backgroundColor: '#000',
-
 
     } 
 }
