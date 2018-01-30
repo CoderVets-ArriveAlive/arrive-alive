@@ -10,7 +10,7 @@ import ProfilePage from './profilePage'
 
 const App=StackNavigator({
   Home: {screen: ArriveAlive},
-  Profile: {screen: ProfilePage},
+  Profile: {screen: profilePage},
   
 })
 

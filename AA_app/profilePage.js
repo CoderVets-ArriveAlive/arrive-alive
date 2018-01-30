@@ -27,7 +27,7 @@ export default class ProfilePage extends React.Component {
                 />
                 <TextInput
                     style={styles.inputName}
-                    placeholder="input 4"
+                    placeholder="Unit"
                 />
                 <TextInput
                     style={styles.inputName}
